@@ -1,0 +1,15 @@
+*.mp4
+*.png
+*.pth
+*.ckpt
+*.npy
+*.bin
+*.ply
+*.jpg
+*.safetensors
+./data/end2end_map_data/
+./data/waymo_tfrecords/
+./data/waymo_multi_view_wo_human/
+./data/waymo_multi_view/
+./renderer/IC-Light
+./renderer/libcom

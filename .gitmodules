@@ -1,0 +1,6 @@
+[submodule "renderer/IC-Light"]
+	path = renderer/IC-Light
+	url = https://github.com/lllyasviel/IC-Light.git
+[submodule "renderer/libcom"]
+	path = renderer/libcom
+	url = https://github.com/bcmi/libcom.git

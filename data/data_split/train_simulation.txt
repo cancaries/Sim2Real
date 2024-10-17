@@ -1,0 +1,24 @@
+# scene_id, seg_name, start_timestep, end_timestep, scene_type
+3,seg100613,0,-1,static
+19,seg102751,0,-1,static
+36,seg106762,0,-1,static
+16,seg102319,0,-1,dynamic
+21,seg103913,0,-1,dynamic
+22,seg104444,0,-1,dynamic
+25,seg104980,0,-1,dynamic
+31,seg105887,0,-1,dynamic
+1,seg100239,0,-1,ego-static
+23,seg104554,0,-1,ego-static
+124,seg128560,0,-1,dusk/dawn
+147,seg132079,0,-1,dusk/dawn
+47,seg109277,0,-1,gloomy
+205,seg144275,0,-1,gloomy
+58,seg111194,0,-1,exposure_mismatch
+93,seg120126,0,-1,exposure_mismatch
+7,seg100822,0,-1,nighttime
+15,seg102261,0,-1,nighttime
+44,seg108305,0,-1,rainy
+56,seg110763,0,-1,rainy
+2,seg100508,0,-1,high-speed
+41,seg107707,0,-1,high-speed
+46,seg109239,0,-1,high-speed

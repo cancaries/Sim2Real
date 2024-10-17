@@ -1,0 +1,26 @@
+# scene_id, seg_name, start_timestep, end_timestep, scene_type
+16,seg102319,0,-1,dynamic
+21,seg103913,0,-1,dynamic
+22,seg104444,0,-1,dynamic
+25,seg104980,0,-1,dynamic
+31,seg105887,0,-1,dynamic
+58,seg111194,0,-1,exposure_mismatch
+93,seg120126,0,-1,exposure_mismatch
+2,seg100508,0,-1,high-speed
+41,seg107707,0,-1,high-speed
+46,seg109239,0,-1,high-speed
+34,seg106250,0,-1,dynamic
+35,seg106648,0,-1,dynamic
+49,seg109636,0,-1,dynamic
+53,seg110170,0,-1,dynamic
+80,seg117188,0,-1,dynamic
+89,seg119284,0,-1,dynamic
+94,seg120278,0,-1,dynamic
+96,seg121618,0,-1,dynamic
+102,seg122514,0,-1,dynamic
+111,seg123392,0,-1,dynamic
+222,seg148106,0,-1,dynamic
+323,seg168016,0,-1,dynamic
+382,seg181118,0,-1,dynamic
+402,seg191876,0,-1,dynamic
+427,seg225932,0,-1,dynamic

@@ -1,0 +1,1 @@
+python render_single_frame.py --config ./configs/example/waymo_train_022.yaml mode novel
